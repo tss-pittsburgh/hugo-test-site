@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "TSS Taiwan"
+theme = "ananke"
+
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+    # BookMenuBundle = '/menu'
